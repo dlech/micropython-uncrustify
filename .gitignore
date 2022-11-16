@@ -56,3 +56,10 @@ xcuserdata
 # CLion
 .idea/
 cmake-build-*/
+
+
+# Python
+_skbuild/
+dist/
+MANIFEST.in
+*.egg-info
